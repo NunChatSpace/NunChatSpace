@@ -1,3 +1,5 @@
+
+
 ### Personal information
 Hi, I’m Chatchawan U-patham (Nun). 
 
@@ -19,7 +21,15 @@ Hi, I’m Chatchawan U-patham (Nun).
 - Docker (to be improve)
 - Design Pattern (to be improve)
 - MVC, Clean architecture (to be improve)
- 
+
+### Doing project
+[Daily COVID Cases](https://github.com/NunChatSpace/DailyCovidCase)
+Stack : Golang + ReactJS + MongoDB
+
+### Done project
+Web view that is use to buy created crypto currency [Moon Coin](https://github.com/NunChatSpace/MCRepo) (Golang + ReactJS + MongoDB + RTDB Firebase)
+
+
 ### Road map (Next learning)
 Refer : https://github.com/Alikhll/golang-developer-roadmap
 1. Database -> search engine -> Elastic Search (0%)
