@@ -5,17 +5,30 @@ Hi, I’m Chatchawan U-patham (Nun).
 - Golang
 - React/Redux
 - MongoDB
-- Firebase RTDB 
+- Firebase RTDB
+- HTML, CSS, JavaScript
 
 ### Experience programming stack
 - .Net Framework, ASP.Net Framework
-- 
-I’m currently learning Golang with this road map https://github.com/Alikhll/golang-developer-roadmap
- 
-I’m looking to collaborate on ...
-How to reach me ...
+- Python
+- C 
 
-<!---
-NunChatSpace/NunChatSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Development skill
+- Robot Framework with selenium
+- Version control (Git, SVN)
+- Docker (to be improve)
+- Design Pattern (to be improve)
+- MVC, Clean architecture (to be improve)
+ 
+### Road map (Next learning)
+Refer : https://github.com/Alikhll/golang-developer-roadmap
+1. Database -> search engine -> Elastic Search (0%)
+2. Caching (0%)
+3. Logging (5%)
+4. Real-time Communication (0%)
+5. API Clients (0%)
+6. Testing (40%)
+7. Microservice (10%)
+8. Task scheduling (0%)
+9. Go Patterns (10%)
+
