@@ -5,6 +5,7 @@ Hi, I’m Chatchawan U-patham (Nun).
 
 ### Currently programming stack
 - Golang
+- NodeJS
 - React/Redux
 - MongoDB
 - Firebase RTDB
