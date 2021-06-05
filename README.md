@@ -24,10 +24,10 @@ Hi, I’m Chatchawan U-patham (Nun).
 - MVC, Clean architecture (to be improve)
 
 ### Doing project
-[Daily COVID Cases](https://github.com/NunChatSpace/DailyCovidCase)
-Stack : Golang + ReactJS + MongoDB
+[Shopee Clone](https://github.com/NunChatSpace/ShopeeClone) (Mongo + ExpressJS + ReactJS + NodeJS)
 
 ### Done project
+[Daily COVID Cases](https://github.com/NunChatSpace/DailyCovidCase) (Golang + ReactJS + MongoDB)
 Web view that is use to buy created crypto currency [Moon Coin](https://github.com/NunChatSpace/MCRepo) (Golang + ReactJS + MongoDB + RTDB Firebase)
 
 
