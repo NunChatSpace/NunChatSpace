@@ -23,7 +23,12 @@ Hi, I’m Chatchawan U-patham (Nun).
 - MVC, Design Pattern, SOLID
 
 ### Doing project
-TBD
+[rust-examples](https://github.com/NunChatSpace/rust-examples)
+- Just implement feature that might be used on web application eg. pagination, searching, uploading/doownloading files, etc.
+- Implement code structure
+- add DI and unit testing
+- some easy frontend thing for playing example
+- whatever
 
 ### Done project
 [Daily COVID Cases](https://github.com/NunChatSpace/DailyCovidCase) (Golang + ReactJS + MongoDB)
