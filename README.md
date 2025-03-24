@@ -4,23 +4,10 @@
 Hi, I’m Chatchawan U-patham (Nun). 
 
 ### Stacks
-- Golang
-- NodeJS
-- Python
-- HTML, CSS, JavaScript
+Golang, NodeJS, Python, HTML, CSS, JavaScript
 
 ### Frameworks
-- Svelte, SvelteKit
-- NestJs, ExpressJs
-- Django
-- React/Redux
-- Gin, Fiber, Echo
-
-### Development skill
-- Robot Framework with selenium
-- Version control (Git, SVN)
-- Docker 
-- MVC, Design Pattern, SOLID
+Svelte, SvelteKit, NestJs, ExpressJs, Django, Golang's Webframework
 
 ### Doing project
 [rust-examples](https://github.com/NunChatSpace/rust-examples)
