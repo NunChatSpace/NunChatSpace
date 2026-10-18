@@ -10,4 +10,9 @@ A Lead Software Engineer at PRODIGY9 Co., Ltd. who enjoys building things and so
 
 ## Skills
 
-Any 🤡🪄🔥🗿🤌💀🚀🐛🔨🙏
+```ruby
+codex "What's your skill?"
+>> any
+```
+
+🤡🪄🔥🗿🤌💀🚀🐛🔨🙏
