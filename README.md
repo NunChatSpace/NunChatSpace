@@ -4,9 +4,7 @@ A software engineer who enjoys building things and solving problems.
 
 ## Professional Experience
 
-- **Lead Software Engineer / Software Engineer** at PRODIGY9 Co., Ltd.
-- **Software Engineer** at SkyFrog Co., Ltd.
-- **Junior Software Engineer** at Transtron Thailand Co., Ltd.
+- **Lead Software Engineer** at PRODIGY9 Co., Ltd.
 
 ## Side Projects
 
