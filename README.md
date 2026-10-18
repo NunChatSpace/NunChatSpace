@@ -1,10 +1,6 @@
 # Hi, I'm Chatchawan U-patham (Nun)
 
-A software engineer who enjoys building things and solving problems.
-
-## Professional Experience
-
-- **Lead Software Engineer** at PRODIGY9 Co., Ltd.
+A Lead Software Engineer at PRODIGY9 Co., Ltd. who enjoys building things and solving problems.
 
 ## Side Projects
 
